@@ -2,11 +2,13 @@
 
 -**TECH INNOVATORS INC.**- is a leading company in the consumer electronics market, specializing in cutting-edge gadgets such as Smartphones, Tablets, Smart Home Appliances, and Wearable Technology. Our mission is to leverage technology to enhance the daily lives of our customers, offering innovative and reliable products that meet the evolving needs of the modern consumer. 
 
-**BUSINESS PROBLEM*
+*BUSINESS PROBLEM*
+
 Tech Innovators Inc. has historically relied on ad-hoc methods and intuition for predicting future sales, which has led to several operational inefficiencies. The absence of formal forecasting methods has resulted in issues such as stockouts, overstock situations, increased holding costs, and suboptimal resource allocation. These challenges hinder the company's ability to meet customer demand efficiently and affect overall profitability. In response to these ongoing issues, Tech Innovators Inc. recently hired a data scientist to develop and implement a reliable forecasting process. 
 I as a data scientist suggested evaluating multiple forecasting techniques to determine the most effective method for predicting future sales, hence the reason for this task.
 
-**OBJECTIVES*
+*OBJECTIVES*
+
 The primary objective of this project is to implement and evaluate various forecasting techniques using historical sales data to identify the most effective method for predicting the sales of different product categories for 2025.
 Accurate sales forecasting is crucial for optimizing inventory, planning production, and making informed business decisions.
 
@@ -18,7 +20,7 @@ Forecasting is the process of making predictions about future events based on hi
 5.	Linear Forecast
 6.	SLR
 
--In addressing the sales forecasting needs of Tech Innovators Inc., it's essential to understand the significance of data aggregation. Aggregation methods play a crucial role in the accuracy and reliability of forecasts. Given the company's historical reliance on intuition and ad-hoc methods, choosing the right aggregation method is vital for overcoming operational inefficiencies and enhancing decision-making processes. Let's delve into the different aggregation methods and why monthly aggregation, in particular, provides higher accuracy for Tech Innovators Inc.-
+*In addressing the sales forecasting needs of Tech Innovators Inc., it's essential to understand the significance of data aggregation. Aggregation methods play a crucial role in the accuracy and reliability of forecasts. Given the company's historical reliance on intuition and ad-hoc methods, choosing the right aggregation method is vital for overcoming operational inefficiencies and enhancing decision-making processes. Let's delve into the different aggregation methods and why monthly aggregation, in particular, provides higher accuracy for Tech Innovators Inc.*
 
 **STEPS IN FORECASTING THE BUSINESS**
 Let's say I’m a data scientist at a Tech Innovator Inc. company in the consumer electronics market, specializing in cutting-edge gadgets such as Tablets, I want to forecast tablets sales for multiple forecasting techniques to determine the the most effective method for predicting future sales. Here's how you might go about it.
