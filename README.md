@@ -1,6 +1,8 @@
 # Forecasting-in-Excel
 
--**TECH INNOVATORS INC.**- is a leading company in the consumer electronics market, specializing in cutting-edge gadgets such as Smartphones, Tablets, Smart Home Appliances, and Wearable Technology. Our mission is to leverage technology to enhance the daily lives of our customers, offering innovative and reliable products that meet the evolving needs of the modern consumer. 
+<img width="179" alt="Screenshot 2024-07-10 003128 B" src="https://github.com/halimotoye/Forecasting-in-Excel/assets/172057907/45519077-44be-4cde-9b62-7b5785da0584">
+
+**TECH INNOVATORS INC.** is a leading company in the consumer electronics market, specializing in cutting-edge gadgets such as Smartphones, Tablets, Smart Home Appliances, and Wearable Technology. Our mission is to leverage technology to enhance the daily lives of our customers, offering innovative and reliable products that meet the evolving needs of the modern consumer. 
 
 *BUSINESS PROBLEM*
 
